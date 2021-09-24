@@ -11,3 +11,4 @@ for i in range(1, 1+n): #all diamonds
 			pass #print(" ",end="")
 		print("")
 	print("")
+print("")
