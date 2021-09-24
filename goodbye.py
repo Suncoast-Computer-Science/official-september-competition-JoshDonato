@@ -1,2 +1,2 @@
 c = input()
-print("Goodbye " + c + "!")
+print("Goodbye " + str(c) + "!")
