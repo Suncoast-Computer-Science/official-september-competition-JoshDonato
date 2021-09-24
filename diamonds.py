@@ -8,6 +8,6 @@ for i in range(1, 1+n): #all diamonds
 		for k in range(m - 2 * abs(j - int((m+1)/2))):
 			print("*",end="")
 		for k in range(abs(int((m+1) / 2) - j)):
-			print(" ",end="")
+			pass #print(" ",end="")
 		print("")
 	print("")
